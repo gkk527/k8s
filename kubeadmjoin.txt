@@ -1,0 +1,2 @@
+kubeadm join 192.168.29.128:6443 --token flah8o.ifdbxrooi035tdiy \
+    --discovery-token-ca-cert-hash sha256:be4b89d05eb791b9d891d031ce1e68aa566725ea058cb791cf9a1b0a99766732
